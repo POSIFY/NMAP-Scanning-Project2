@@ -17,3 +17,9 @@ nmap -sn 192.168.1.100
 ```
 
 <img width="1357" height="678" alt="image" src="https://github.com/user-attachments/assets/7a765826-c646-4752-8649-5d99afa50cbe" />
+
+
+**Step 8 – Documentation**
+1. Summarize findings in the README.md.
+2. Add screenshots of terminal outputs.
+3. Create a Findings Table like this:
