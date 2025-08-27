@@ -10,3 +10,8 @@ By simulating a penetration tester’s approach, this project highlights how Nma
 * To practice different Nmap scanning techniques (ping scan, TCP scan, service/version detection).
 * To document scan results in a structured and professional format.
 * To build a simple, reproducible GitHub project showcasing applied cybersecurity skills.
+
+Nmap Commands
+```
+nmap -sn 192.168.1.100
+```
